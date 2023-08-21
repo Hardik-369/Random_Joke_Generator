@@ -1,1 +1,2 @@
 # Random_Joke_Generator
+🤣 Unleash laughter with the "Random Joke Generator"! This web app fetches and presents amusing jokes 🎉 upon page load or button press. The layout, decked out using CSS, centers around a container adorned with a whimsical emoji, dynamically changing jokes, and a "Generate Joke" button. Jokes are sourced from an API, adhering to content guidelines, while a fading transition spices up the user experience.
